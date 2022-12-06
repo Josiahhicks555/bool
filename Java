@@ -1,4 +1,4 @@
-class bool {
+class Bool {
   
     public static void main(String[] args)
     {
@@ -6,12 +6,12 @@ class bool {
         // int
         var x = 1;
         var y = 2;
-        var p = "JoJO";
+        var done = "JoJO";
         var q = false;
         System.out.println(x);
         System.out.println(y);
         System.out.println(x + y);
-        System.out.println(p);
+        System.out.println(done);
         System.out.println(q);
     }
 }
